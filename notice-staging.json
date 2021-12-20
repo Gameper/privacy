@@ -9,7 +9,7 @@
         "en": "Disable trades"
       },
       "content": {
-        "ko": "안녕하세요\\n비트로입니다",
+        "ko": "안녕하세요\n비트로입니다",
         "en": "hello this is notice"
       },
       "button": {
@@ -26,7 +26,7 @@
         "en": "Disable trades"
       },
       "content": {
-        "ko": "안녕하세요\n이건 공지입니다.\\n공지입니다.",
+        "ko": "안녕하세요\n이건 공지입니다.\n공지입니다.",
         "en": "hello this is notice"
       },
       "button": {
