@@ -1,0 +1,38 @@
+{
+  "notice": [
+    {
+      "id": "2021-12-19-disable-trade-0",
+      "startTime": 1640015257,
+      "expireTime": 2640025257,
+      "title": {
+        "ko": "거래 정지0",
+        "en": "Disable trades"
+      },
+      "content": {
+        "ko": "안녕하세요\\n비트로입니다",
+        "en": "hello this is notice"
+      },
+      "button": {
+        "moveTo": "AUTH_CENTER"
+      },
+      "canDisable": true
+    },
+    {
+      "id": "2021-12-20-disable-trade-1",
+      "startTime": 1640015257,
+      "expireTime": 2640025257,
+      "title": {
+        "ko": "거래 정지1",
+        "en": "Disable trades"
+      },
+      "content": {
+        "ko": "안녕하세요\\n이건 공지입니다.\\n공지입니다.",
+        "en": "hello this is notice"
+      },
+      "button": {
+        "moveTo": "WALLET_HISTORY"
+      },
+      "canDisable": true
+    }
+  ]
+}
